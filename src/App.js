@@ -1,5 +1,4 @@
 import './App.css';
-import "C:\Users\jsgba\ReactJS\rjstask1\node_modules\bootstrap\dist\css\bootstrap.min.css"
 import Wordcnt from './components/wordcnt';
 
 function App() {
